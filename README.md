@@ -11,23 +11,18 @@ From the summary dataframe below, the differences between urban cities and other
 
 ![summary of data by city type](https://github.com/LiShanDa2021/PyBer_Analysis/blob/main/analysis/Screen%20Shot%202021-10-11%20at%204.16.41%20PM.png?raw=true)
 
-As you can see, suburban and rural riders pay 6 and and 10 dollars more on average per ride than do urban riders. Being a rural Pyber driver, however, is a much better deal. Drivers in rural areas make significantly more per ride than do suburban and urban drivers, and with 1.6 rides per driver they have more chances to get fares than urban (1.48 rides per driver) and suburban (1.28 rides per driver) drivers. The suburbs are not ideal for either drivers or riders. Suburban riders pay significantly more than urban riders while urban drivers make less than rural drivers and have fewer chances to earn fares.
+As you can see, suburban and rural riders pay 6 and and 10 dollars more on average per ride than do urban riders. Being a rural Pyber driver, however, is a much better deal. Drivers in rural areas make significantly more per ride than do suburban and urban drivers, and with 1.6 rides per driver they have more chances to get fares than urban (1.48 rides per driver) and suburban (1.28 rides per driver) drivers. The suburbs ideal for neither drivers nor riders. Suburban riders pay significantly more than urban riders while urban drivers make less than rural drivers and have fewer chances to earn fares. The disparity between urban, suburban and rural cities is also evident in the week-by-week analysis of total fares in the chart below -- although there are some trends that all three city types share.
 
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+![week by week analysis](https://github.com/LiShanDa2021/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
 
+The chart displays the total fares by week for each city type. Urban total fares are, of course, much higher each week, but you will notice similar patterns across city types with some deviations. All city types begin the year with a lull and then experience a peak in fares in late February. Urban cities then experience a series of peaks and valleys in March while revenues for suburban and rural cities remain relatively low. Urban and rural cities then reach another peak in early April while suburban city fares fall. Urban and rural cities fall again toward the end of April while suburban cities reach a new peak.
 
 
 ## Summary
 
-incentives for rural drivers
+Based on the data above I would make the following recommendations to V. Isualize in order to improve access and affordability in underserved areas.
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+* Campaign to recruit rural drivers. There is clearly demand in rural areas as rural drivers have the most rides per driver.
+* Incentivize suburban drivers to pick up rural fares. There are fewer rides per driver in the suburbs, so with only a little convincing, suburban drivers may make the trip to rural areas.
+* Promote the service to suburban riders. There are drivers available in the suburbs. However, many suburbanites may think of ride-sharing as an urban service and may not realize we operate in their area.
 
-
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
-campaign to entice more rural drivers
