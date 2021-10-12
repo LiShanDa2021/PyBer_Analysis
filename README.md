@@ -11,7 +11,7 @@ From the summary dataframe below, the differences between urban cities and other
 
 ![summary of data by city type](https://github.com/LiShanDa2021/PyBer_Analysis/blob/main/analysis/Screen%20Shot%202021-10-11%20at%204.16.41%20PM.png?raw=true)
 
-As you can see, suburban and rural riders pay 6 and and 10 dollars more on average per ride than do urban riders. Being a rural Pyber driver, however, is a much better deal. Drivers in rural areas make significantly more per ride than do suburban and urban drivers, and with 1.6 rides per driver they have more chances to get fares than urban (1.48 rides per driver) and suburban (1.28 rides per driver) drivers. 
+As you can see, suburban and rural riders pay 6 and and 10 dollars more on average per ride than do urban riders. Being a rural Pyber driver, however, is a much better deal. Drivers in rural areas make significantly more per ride than do suburban and urban drivers, and with 1.6 rides per driver they have more chances to get fares than urban (1.48 rides per driver) and suburban (1.28 rides per driver) drivers. The suburbs are not ideal for either drivers or riders. Suburban riders pay significantly more than urban riders while urban drivers make less than rural drivers and have fewer chances to earn fares.
 
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
